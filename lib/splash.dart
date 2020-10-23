@@ -12,7 +12,7 @@ class _SplashState extends State<Splash> {
       floatingActionButton: FloatingActionButton(child: Icon(Icons.image_search_sharp),backgroundColor: Colors.lightGreen[900],),
       appBar: AppBar(
         backgroundColor: Colors.lightGreen[900],
-        title: Text('Gallery'),
+        title: Text('Photos'),
         centerTitle: true,
         leading: Icon(Icons.menu_rounded),
         actions: [
